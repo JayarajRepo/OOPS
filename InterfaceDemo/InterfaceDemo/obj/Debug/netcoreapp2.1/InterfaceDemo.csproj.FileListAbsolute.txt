@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.deps.json
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.runtimeconfig.json
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.runtimeconfig.dev.json
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.dll
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\netcoreapp2.1\InterfaceDemo.pdb
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.AssemblyInfo.cs
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.dll
+C:\Users\user\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\netcoreapp2.1\InterfaceDemo.pdb
