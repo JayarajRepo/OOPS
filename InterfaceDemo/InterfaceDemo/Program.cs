@@ -30,7 +30,8 @@ namespace InterfaceDemo
             //Console.WriteLine("Hello World!");
             I1 myClass = new MyClass();
             myClass.Display();
-           // myClass.Display1();
+           // myClass.Display1();st
+            //te
 
         }
     }
