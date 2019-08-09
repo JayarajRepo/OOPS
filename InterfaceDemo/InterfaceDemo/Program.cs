@@ -1,5 +1,5 @@
 ﻿using System;
-
+//namespace
 namespace InterfaceDemo
 {
     interface I1
